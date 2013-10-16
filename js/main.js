@@ -38,7 +38,7 @@ jQuery(function($) {
           var h2 = $('h2', cache[ url ]);
           
           if(h2.length)
-            $('body').scrollTo(h2);
+            $('body').scrollTo(h2, 800);
 	  
 	} else {
 	  // Show "loading" content while AJAX content loads.
@@ -61,7 +61,7 @@ jQuery(function($) {
                   var h2 = $('h2',this);
           
                   if(h2.length)
-                    $('body').scrollTo(h2);
+                    $('body').scrollTo(h2, 800);
                   
 		});
 	}
