@@ -136,7 +136,6 @@
 
         <script src="js/jquery.unveil.min.js"></script>
         <script src="js/jquery.ba-bbq.min.js"></script>
-        <script src="js/jquery.localScroll.min.js"></script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
     </body>

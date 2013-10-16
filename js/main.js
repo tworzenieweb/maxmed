@@ -35,7 +35,10 @@ jQuery(function($) {
 	  // created, so instead of creating it again, let's just show it!
 	  cache[ url ].show();
           
-          $('body').scrollTo($('h2', cache[ url ]));
+          var h2 = $('h2', cache[ url ]);
+          
+          if(h2.length)
+            $('body').scrollTo(h2);
 	  
 	} else {
 	  // Show "loading" content while AJAX content loads.
@@ -54,7 +57,12 @@ jQuery(function($) {
 		.load( url, function(){
 		  // Content loaded, hide "loading" content.
 		  $( '.bbq-loading' ).hide();
-		  $('body').scrollTo($('h2',this));
+                  
+                  var h2 = $('h2',this);
+          
+                  if(h2.length)
+                    $('body').scrollTo(h2);
+                  
 		});
 	}
 	});
