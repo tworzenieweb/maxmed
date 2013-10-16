@@ -29,7 +29,7 @@
                 <div class="clearfix">
                     <div class="logo pull-left">
                         <h1>Max Med</h1>
-                        <img src="images/loader.gif" data-src="images/logo.png" alt="Max Med" width="249" height="155" />
+                        <a href="/"><img src="images/loader.gif" data-src="images/logo.png" alt="Max Med" width="249" height="155" /></a>
                     </div>
 
                     <nav class="pull-right">
