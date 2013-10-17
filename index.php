@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pl"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pl"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang="pl"> <![endif]-->
@@ -44,7 +44,7 @@
                 </div>
                 <div class="banner">
                     <h2>W służbie Twojego Zdrowia</h2>
-                    <img src="images/loader.gif" data-src="images/banner.jpg" alt="w służbie twojego" width="960" height="248" />
+                    <img src="images/loader.gif" data-src="images/banner.jpg" alt="w służbie twojego" width="960" height="284" />
                 </div>
 
             </header>
@@ -58,21 +58,21 @@
                         <div class="col-4">
                             <h3 class="text-center"><a href="#transport-medyczny.html">Transport Medyczny</a></h3>
                             <a href="#transport-medyczny.html">
-                                <img src="images/loader.gif" data-src="images/transport.jpg" alt="transport medyczny" />
+                                <img src="/images/loader.gif" data-src="images/transport.jpg" alt="transport medyczny" width="212" height="132" />
                             </a>
                         </div>
 
                         <div class="col-4">
                             <h3 class="text-center"><a href="#zabezpieczenie-imprez.html">Zabezpieczenie Imprez</a></h3>
                             <a href="#zabezpieczenie-imprez.html">
-                                <img src="images/loader.gif" data-src="images/imprezy.jpg" alt="zabezpieczenie imprez" />
+                                <img src="/images/loader.gif" data-src="images/imprezy.jpg" alt="zabezpieczenie imprez" width="211" height="132" />
                             </a>
                         </div>
 
                         <div class="col-4">
                             <h3 class="text-center"><a href="#oferta-zoz.html">Oferta dla ZOZ</a></h3>
                             <a href="#oferta-zoz.html">
-                                <img src="images/loader.gif" data-src="images/zoz.jpg" alt="oferta dla ZOZ" />
+                                <img src="/images/loader.gif" data-src="images/zoz.jpg" alt="oferta dla ZOZ" width="212" height="133" />
                             </a>
                         </div>
 
@@ -83,11 +83,36 @@
                         <div class="content-body-inner">
 
                             <div class="bbq-loading" style="display:none;">
-                                <img src="/images/ajaxload-15-white.gif" alt="Loading"/> Wczytuję...
+                                <img src="/images/ajaxload-15-white.gif" alt="Loading"/>
                             </div>
                             
                             <div class="bbq-default bbq-item">
 
+                                <p class="text-center">
+                                Firma MAX-MED świadczy usługi transportu sanitarnego na terenie całego kraju jak i Europy. W swoim taborze posiadamy świetnie wyposażone ambulanse, spełniające wszelkie wymagania stawiane tego typu pojazdom przez organa administracji publicznej. Nasze karetki posiadają europejskie certyfikaty PN-EN 1789.
+                                </p>
+
+<p><strong>Transport sanitarny z wykwalifikowanymi ratownikami medycznymi w jedną stronę.</strong></p>
+
+<p>
+70 zł + 2,20 KM poza granicami administracyjnymi miasta Łodzi.
+</p>
+
+<p><strong>Transport sanitarny z wykwalifikowanymi ratownikami medycznymi w dwie strony.</strong></p>
+
+<p>110 zł + 2,20 KM poza granicami administracyjnymi miasta Łodzi.</p>
+
+<p>Wniesienie pacjenta w cenie transportu.</p>
+
+<p>Korzyścią płynącą z wyboru naszej firmy jest możliwość uniknięcia długich i męczących kolejek w Zakładach Opieki Zdrowotnej.</p>
+
+<p>Zapraszamy do skorzystania z oferty naszej firmy.</p>
+<br /><br />
+
+<p class="text-center"><big>ZAMÓW TRANSPORT</big></p>
+
+<p class="text-center"><big>512-550-666</big></p>
+                                
                             </div>
 
                         </div>
