@@ -139,7 +139,7 @@
 
                             <p>
                                 NIP: 6580004689<br />
-                                REGON: <br />
+                                REGON: 290152268<br />
                             </p>
 
                             <p>e-mail: <a href="mailto:biuro@max-med.eu">biuro@max-med.eu</a></p>
